@@ -1,0 +1,5 @@
+python-dotenv
+openai
+streamlit
+hugchat==0.4.5
+chatgpt
