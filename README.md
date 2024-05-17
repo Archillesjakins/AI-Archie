@@ -1,4 +1,7 @@
 """
+# ARCHBOT APP 
+
+You can access app on <a href="https://archie.streamlit.app"> archat</a>
 
 This Streamlit application, named "ArchieChat," serves as a conversational interface powered by the `Hugging Face chatbot API` and `OPEN AI API`. The application enables users to interact with the chatbot by providing text-based input and receiving responses in real-time. The primary functionalities of the application are:
 
